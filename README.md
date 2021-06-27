@@ -5,4 +5,4 @@ use wget
 
 wget https://raw.githubusercontent.com/therealelyayo/cwpscript/master/cwpscrip.sh
 
-sht=== wget https://tinyurl.com/cwpscrpt
+sht=== wget https://tinyurl.com/cwpscript1
