@@ -7,3 +7,6 @@ wget https://raw.githubusercontent.com/therealelyayo/cwpscript/master/cwpscrip.s
 
 sht=== wget https://tinyurl.com/cwpscript1
 mv cwpscript1 cwp.sh
+
+
+chmod u+x cwp.sh && ./cwp.sh
